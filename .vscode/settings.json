@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 15,
+    "editor.bracketPairColorization.enabled": true,
+    "window.closeWhenEmpty": true,
+    "workbench.editor.limit.enabled": true
+}
